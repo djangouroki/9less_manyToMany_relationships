@@ -1,0 +1,1 @@
+[{"model": "m2m.post", "pk": 1, "fields": {"title": "title1", "text": "text1", "autors": [2, 3]}}, {"model": "m2m.post", "pk": 2, "fields": {"title": "title2", "text": "text2", "autors": [2]}}, {"model": "m2m.post", "pk": 3, "fields": {"title": "title3", "text": "text3", "autors": [2]}}]
